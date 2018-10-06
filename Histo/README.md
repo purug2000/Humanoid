@@ -1,1 +1,1 @@
-This is the histogram back_projection module I developed for Humanoid IITK. It has 3 generalised functions, which may be used to perform different functions. The description for each is commented in the code.
+This is the histogram back_projection module I developed for Humanoid IITK. It has certain generalised functions, which may be used to perform different functionalities. The description for each is commented in the code.
